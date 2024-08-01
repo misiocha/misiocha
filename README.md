@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misiocha
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning web/ android development 
+- 👀 I’m interested in software engineering / SYSTEM Administration
+- 🌱 I’m currently learning IT INFRASTRUCTURE
 - 💞️ I’m looking to collaborate on start up campany for more creativity in development 
 - 📫 How to reach me 0792092053
 
